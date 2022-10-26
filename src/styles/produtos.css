@@ -1,0 +1,22 @@
+.ajuste{
+  margin-top: 3%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cadastro{
+  text-decoration: none;
+  color: white;
+}
+.cadastro:hover{
+  text-decoration: none;
+  color: white;
+}
+.ajuste-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.secoes{
+  margin: 25px;
+}

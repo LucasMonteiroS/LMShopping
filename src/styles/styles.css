@@ -1,0 +1,31 @@
+.carsl{
+  margin-top: 20px;
+}
+.itens{
+  margin-top: 25px;
+  padding-left: 80px;
+  margin-bottom: 10px;
+}
+.title{
+  margin-top: 15px;
+}
+.card-body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-text{
+  font-size: 22px;
+  font-weight: bold;
+}
+.card_link{
+  color: black!important;
+  text-decoration: none!important;
+}
+.ajuste{
+  margin-top: 3%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3%;
+}
